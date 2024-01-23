@@ -8,11 +8,37 @@
     <title>Jaffery</title>
 
     <link rel="stylesheet" href="/app.css">
-    <script src="/app.js"></script>
+    {{--  <script src="/app.js"></script> --}}
 </head>
 
 <body>
-    <h1>Hello World</h1>
+    <article>
+        <h1><a href="/post">First Post</a></h1>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil veniam quod alias velit minus animi amet
+            commodi eius officia mollitia consequatur ratione nisi hic sequi voluptates libero aliquam, quibusdam
+            laudantium impedit perferendis similique recusandae, accusamus suscipit dicta. Inventore, beatae eius?</p>
+    </article>
+
+    <article>
+        <h1><a href="/post">Second Post</a></h1>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil veniam quod alias velit minus animi amet
+            commodi eius officia mollitia consequatur ratione nisi hic sequi voluptates libero aliquam, quibusdam
+            laudantium impedit perferendis similique recusandae, accusamus suscipit dicta. Inventore, beatae eius?</p>
+    </article>
+
+    <article>
+        <h1><a href="/post">Third Post</a></h1>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil veniam quod alias velit minus animi amet
+            commodi eius officia mollitia consequatur ratione nisi hic sequi voluptates libero aliquam, quibusdam
+            laudantium impedit perferendis similique recusandae, accusamus suscipit dicta. Inventore, beatae eius?</p>
+    </article>
+
+    <article>
+        <h1><a href="/post">Fourth Post</a></h1>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil veniam quod alias velit minus animi amet
+            commodi eius officia mollitia consequatur ratione nisi hic sequi voluptates libero aliquam, quibusdam
+            laudantium impedit perferendis similique recusandae, accusamus suscipit dicta. Inventore, beatae eius?</p>
+    </article>
 </body>
 
 </html>
